@@ -1,16 +1,19 @@
 <html>
 <body>
+<h1>my name is Venkatesh
+<h2>JavaScript Template Literals</h2>
 
-<h1 style="background-color:Tomato;">Tomato</h1>
-<h1 style="background-color:Orange;">Orange</h1>
-<h1 style="background-color:DodgerBlue;">DodgerBlue</h1>
-<h1 style="background-color:MediumSeaGreen;">MediumSeaGreen</h1>
-<h1 style="background-color:Gray;">Gray</h1>
-<h1 style="background-color:SlateBlue;">SlateBlue</h1>
-<h1 style="background-color:Violet;">Violet</h1>
-<h1 style="background-color:LightGray;">LightGray</h1>
+<p>With back-ticks, you can use both single and double quotes inside a string:</p>
+
+<p id="demo"></p>
+
+<p>Template literals are not supported in Internet Explorer.</p>
+
+<script>
+let text = `He's often called"Venkatesh"`;
+document.getElementById("demo").innerHTML = text;
+</script>
 
 </body>
 </html>
-
 
