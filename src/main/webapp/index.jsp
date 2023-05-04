@@ -1,13 +1,11 @@
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <body>
 
-<h1>my name venkatesh</h1>
-
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p>
+<h2>Setting the Viewport</h2>
+<p>This example does not really do anything, other than showing you how to add the viewport meta element.</p>
 
 </body>
-</html> 
+</html>
