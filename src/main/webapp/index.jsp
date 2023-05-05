@@ -7,8 +7,8 @@
 <h1 style="background-color:MediumSeaGreen;">VENKATESH</h1>
 <h1 style="background-color:Gray;">VENKATESH</h1>
 <h1 style="background-color:SlateBlue;">VENKATESH</h1>
-<h1 style="background-color:Violet;">VENKATESH</h1>
-<h1 style="background-color:LightGray;">VENKATESH</h1>
+<h1 style="background-color:Violet;">NANDIPATI</h1>
+<h1 style="background-color:LightGray;">NANDIPATI</h1>
 
 </body>
 </html>
