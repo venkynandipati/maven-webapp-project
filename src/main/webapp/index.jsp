@@ -1,11 +1,15 @@
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
 
-<h2>Setting the Viewport</h2>
-<p>This example does not really do anything, other than showing you how to add the viewport meta element.</p>
+<h1 style="background-color:Tomato;">VENKATESH</h1>
+<h1 style="background-color:Orange;">VENKATESH</h1>
+<h1 style="background-color:DodgerBlue;">VENKATESH</h1>
+<h1 style="background-color:MediumSeaGreen;">VENKATESH</h1>
+<h1 style="background-color:Gray;">VENKATESH</h1>
+<h1 style="background-color:SlateBlue;">VENKATESH</h1>
+<h1 style="background-color:Violet;">VENKATESH</h1>
+<h1 style="background-color:LightGray;">VENKATESH</h1>
 
 </body>
 </html>
+
